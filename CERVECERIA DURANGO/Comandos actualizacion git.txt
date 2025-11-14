@@ -1,0 +1,11 @@
+COMANDOS ACTUALIZACIÓN GIT
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote set-url origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+
+git push -u origin main
