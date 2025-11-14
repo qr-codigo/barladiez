@@ -70,8 +70,9 @@ position: center;
 
 }
 .menuDigital{
-  margin-top: -320px;
+  margin-top: -220px;
   letter-spacing: 9px;
+  color:black;
 }
 .titulo{
   font-family: 'Rowdies', sans-serif;
